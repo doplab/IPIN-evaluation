@@ -1,0 +1,26 @@
+{
+    "collaborative_algorithm": "aoe-ble",
+    "reset_threshold_lower_bound": 20,
+    "reset_threshold_upper_bound": 999,
+    "starting_interval": 5,
+    "number_of_mobile_devices": 14,
+    "number_of_beacons": 0,
+    "number_of_interactions": {
+        "Beacon 0": 0,
+        "Beacon 1": 0,
+        "Stergios Device 4": 50,
+        "iPhone-3": 71,
+        "iPhone-4": 85,
+        "Alpha Device 17": 76,
+        "Alpha Device 6": 134,
+        "Alpha Device 7": 27,
+        "Alpha Device 8": 77,
+        "Alpha Device 10": 43,
+        "Alpha Device 12": 128,
+        "Stergios iPhone12 3": 103,
+        "Stergios iPhone 12 4": 83,
+        "Stergios iPhone15Pro 3": 73,
+        "Stergios iPhone15Pro 4": 38,
+        "Stergios iPhone15Pro 8": 51
+    }
+}
